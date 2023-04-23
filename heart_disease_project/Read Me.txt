@@ -1,0 +1,34 @@
+This is my first practice project
+
+Heart disease prediction based on given features and targets
+
+-----------------------------------------------------------------------------------
+environment.yml contains version and info of all packages used in this workflow. 
+
+Setup:
+
+conda env create --prefix ./env -f ../environment.yml
+
+*Path must be correctly specified*
+
+-----------------------------------------------------------------------------------
+
+
+heart-disease.csv - open source dataset used in this project
+
+Available in https://archive.ics.uci.edu/ml/datasets/heart+Disease
+also in https://www.kaggle.com/ronit/heart-disease-uci
+
+
+-----------------------------------------------------------------------------------
+
+
+heart_disease_pred_clf_model.pickle - model with best performance
+
+
+-----------------------------------------------------------------------------------
+
+heart-disease-project.ipynb - jupyter notebook file with workflow, best✌️
+
+
+-----------------------------------------------------------------------------------
